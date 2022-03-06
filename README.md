@@ -9,7 +9,7 @@ Dado um vetor de inteiros n e um inteiro qualquer x, o algoritmo determina o nú
 ## Questão Três
 Um texto precisa ser encriptado usando o seguinte esquema. Primeiro, os espaços são removidos do texto. Então, os caracteres são escritos em um grid, no qual as linhas e colunas tem as seguintes regras:
 * Considere T, como o tamanho do texto.
-* Se certifique de que linhas x colunas >= .
+* Se certifique de que linhas x colunas >= raiz de T.
 * Se múltiplos grids satisfazem as condições, escolha aquele com a menor área.
 
 O algoritmo recebe uma string e mostra a mensagem encriptada de acordo com as regras descritas.
